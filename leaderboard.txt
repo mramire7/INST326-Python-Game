@@ -1,0 +1,7 @@
+
+bob,win
+computer,lose
+johnny,win
+computer,lose
+sonny,win
+computer,lose
